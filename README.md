@@ -1,3 +1,5 @@
+![logo](https://github.com/SurajBasnet-developer/SurajBasnet-developer/blob/master/Blue%20Yellow%20Futuristic%20Virtual%20Technology%20Blog%20Banner.png)
+
 <h1 align="center">Hi 👋, I'm Suraj Basnet</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
 
