@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Suraj Basnet</h1>
-<h3 align="center">A passionate frontend developer from Nepal</h3>
+<h3 align="center">A passionate Software Developer from Nepal</h3>
 
 <img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47qhlq2gyo31bg1u7wo2134vp7ilhsaejfxi3fbodv&rid=giphy.gif&ct=g">
 
